@@ -17,7 +17,7 @@ library(datasauRus)
 
 ### Exercise 1
 
-13 Rows X 2 Columns ; (dataset, x, y) 
+1846 Rows X 2 Columns ; (dataset, x, y) 
 
 ### Exercise 2
 
